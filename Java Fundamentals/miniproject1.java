@@ -71,7 +71,7 @@ public class Project1 {
         }
 
         if (!found) {
-            System.out.println("There is no employee with empid : " + empId);
+            System.out.println("There is no employee with empid :  " + empId);
         }
     }
 }
